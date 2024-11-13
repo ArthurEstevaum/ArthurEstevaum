@@ -50,9 +50,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="100" src="https://media1.tenor.com/images/38dd31b1e29ddea530043625c99c5ad8/tenor.gif?itemid=16881946"  />
-</div>
-
-###
