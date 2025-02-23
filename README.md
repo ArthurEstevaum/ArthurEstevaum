@@ -37,7 +37,7 @@
 
 ###
 
-<a align="center" href="https://estevaum-porfolio.vercel.app/" target="_blank">Portfolio website</a>
+<a href="https://estevaum-porfolio.vercel.app/" target="_blank">Portfolio website</a>
 
 <br clear="both">
 
